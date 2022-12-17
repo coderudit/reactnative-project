@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
   buttonOuterContainer: {
     borderRadius: 28,
     margin: 4,
-    overflow: "hidden", //makes sure that if any stylegoes out of container it is not shown.
+    overflow: "hidden", //makes sure that if any style goes out of container it is not shown.
   },
   buttonInnerContainer: {
     backgroundColor: Colors.primary500,
